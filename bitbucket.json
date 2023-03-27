@@ -1,0 +1,216 @@
+{
+  "product": "Bitbucket (formerly Stash) Data Center",
+  "lastUpdated": "2023-03-27",
+  "tiers": {
+    "25": {
+      "userMin": 1,
+      "userMax": 25,
+      "priceCommercial": 2300,
+      "priceAcademic": 1150
+    },
+    "50": {
+      "userMin": 26,
+      "userMax": 50,
+      "priceCommercial": 4200,
+      "priceAcademic": 2100
+    },
+    "100": {
+      "userMin": 51,
+      "userMax": 100,
+      "priceCommercial": 7600,
+      "priceAcademic": 3800
+    },
+    "250": {
+      "userMin": 101,
+      "userMax": 250,
+      "priceCommercial": 15200,
+      "priceAcademic": 7600
+    },
+    "500": {
+      "userMin": 251,
+      "userMax": 500,
+      "priceCommercial": 20200,
+      "priceAcademic": 10100
+    },
+    "1000": {
+      "userMin": 501,
+      "userMax": 1000,
+      "priceCommercial": 30400,
+      "priceAcademic": 15200
+    },
+    "2000": {
+      "userMin": 1001,
+      "userMax": 2000,
+      "priceCommercial": 60700,
+      "priceAcademic": 30350
+    },
+    "3000": {
+      "userMin": 2001,
+      "userMax": 3000,
+      "priceCommercial": 91100,
+      "priceAcademic": 45550
+    },
+    "4000": {
+      "userMin": 3001,
+      "userMax": 4000,
+      "priceCommercial": 121400,
+      "priceAcademic": 60700
+    },
+    "5000": {
+      "userMin": 4001,
+      "userMax": 5000,
+      "priceCommercial": 151800,
+      "priceAcademic": 75900
+    },
+    "6000": {
+      "userMin": 5001,
+      "userMax": 6000,
+      "priceCommercial": 182200,
+      "priceAcademic": 91100
+    },
+    "7000": {
+      "userMin": 6001,
+      "userMax": 7000,
+      "priceCommercial": 212500,
+      "priceAcademic": 106250
+    },
+    "8000": {
+      "userMin": 7001,
+      "userMax": 8000,
+      "priceCommercial": 242900,
+      "priceAcademic": 121450
+    },
+    "9000": {
+      "userMin": 8001,
+      "userMax": 9000,
+      "priceCommercial": 273200,
+      "priceAcademic": 136600
+    },
+    "10000": {
+      "userMin": 9001,
+      "userMax": 10000,
+      "priceCommercial": 303600,
+      "priceAcademic": 151800
+    },
+    "11000": {
+      "userMin": 10001,
+      "userMax": 11000,
+      "priceCommercial": 334000,
+      "priceAcademic": 167000
+    },
+    "12000": {
+      "userMin": 11001,
+      "userMax": 12000,
+      "priceCommercial": 364300,
+      "priceAcademic": 182150
+    },
+    "13000": {
+      "userMin": 12001,
+      "userMax": 13000,
+      "priceCommercial": 394700,
+      "priceAcademic": 197350
+    },
+    "14000": {
+      "userMin": 13001,
+      "userMax": 14000,
+      "priceCommercial": 425000,
+      "priceAcademic": 212500
+    },
+    "15000": {
+      "userMin": 14001,
+      "userMax": 15000,
+      "priceCommercial": 455400,
+      "priceAcademic": 227700
+    },
+    "16000": {
+      "userMin": 15001,
+      "userMax": 16000,
+      "priceCommercial": 485800,
+      "priceAcademic": 242900
+    },
+    "17000": {
+      "userMin": 16001,
+      "userMax": 17000,
+      "priceCommercial": 516100,
+      "priceAcademic": 258050
+    },
+    "18000": {
+      "userMin": 17001,
+      "userMax": 18000,
+      "priceCommercial": 546500,
+      "priceAcademic": 273250
+    },
+    "19000": {
+      "userMin": 18001,
+      "userMax": 19000,
+      "priceCommercial": 576800,
+      "priceAcademic": 288400
+    },
+    "20000": {
+      "userMin": 19001,
+      "userMax": 20000,
+      "priceCommercial": 607200,
+      "priceAcademic": 303600
+    },
+    "21000": {
+      "userMin": 20001,
+      "userMax": 21000,
+      "priceCommercial": 637600,
+      "priceAcademic": 318800
+    },
+    "22000": {
+      "userMin": 21001,
+      "userMax": 22000,
+      "priceCommercial": 667900,
+      "priceAcademic": 333950
+    },
+    "23000": {
+      "userMin": 22001,
+      "userMax": 23000,
+      "priceCommercial": 698300,
+      "priceAcademic": 349150
+    },
+    "24000": {
+      "userMin": 23001,
+      "userMax": 24000,
+      "priceCommercial": 728600,
+      "priceAcademic": 364300
+    },
+    "25000": {
+      "userMin": 24001,
+      "userMax": 25000,
+      "priceCommercial": 759000,
+      "priceAcademic": 379500
+    },
+    "26000": {
+      "userMin": 25001,
+      "userMax": 26000,
+      "priceCommercial": 789400,
+      "priceAcademic": 394700
+    },
+    "27000": {
+      "userMin": 26001,
+      "userMax": 27000,
+      "priceCommercial": 819700,
+      "priceAcademic": 409850
+    },
+    "28000": {
+      "userMin": 27001,
+      "userMax": 28000,
+      "priceCommercial": 850100,
+      "priceAcademic": 425050
+    },
+    "29000": {
+      "userMin": 28001,
+      "userMax": 29000,
+      "priceCommercial": 880400,
+      "priceAcademic": 440200
+    },
+    "30000": {
+      "userMin": 29001,
+      "userMax": 30000,
+      "priceCommercial": 910800,
+      "priceAcademic": 455400
+    }
+  }
+}
