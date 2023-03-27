@@ -7,4 +7,4 @@ This repo is an attempt to resolve this, as it relies on manual updates, it's ac
 Source:
  - https://www.atlassian.com/licensing/data-center
  
- Full retail commercial costs are used.
+ Full retail commercial and academic costs are used.
