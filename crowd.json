@@ -1,0 +1,66 @@
+{
+  "product": "Crowd Data Center",
+  "lastUpdated": "2023-03-27",
+  "tiers": {
+    "500": {
+      "userMin": 1,
+      "userMax": 500,
+      "priceCommercial": 5800,
+      "priceAcademic": 2900
+    },
+    "1000": {
+      "userMin": 501,
+      "userMax": 1000,
+      "priceCommercial": 8300,
+      "priceAcademic": 4150
+    },
+    "2000": {
+      "userMin": 1001,
+      "userMax": 2000,
+      "priceCommercial": 10800,
+      "priceAcademic": 5400
+    },
+    "3000": {
+      "userMin": 2001,
+      "userMax": 3000,
+      "priceCommercial": 13300,
+      "priceAcademic": 6650
+    },
+    "4000": {
+      "userMin": 3001,
+      "userMax": 4000,
+      "priceCommercial": 15900,
+      "priceAcademic": 7950
+    },
+    "5000": {
+      "userMin": 4001,
+      "userMax": 5000,
+      "priceCommercial": 18400,
+      "priceAcademic": 9200
+    },
+    "10000": {
+      "userMin": 5001,
+      "userMax": 10000,
+      "priceCommercial": 22800,
+      "priceAcademic": 11400
+    },
+    "15000": {
+      "userMin": 10001,
+      "userMax": 15000,
+      "priceCommercial": 27300,
+      "priceAcademic": 13650
+    },
+    "20000": {
+      "userMin": 15001,
+      "userMax": 20000,
+      "priceCommercial": 31600,
+      "priceAcademic": 15800
+    },
+    "-1": {
+      "userMin": 20001,
+      "userMax": -1,
+      "priceCommercial": 36700,
+      "priceAcademic": 18350
+    }
+  }
+}
