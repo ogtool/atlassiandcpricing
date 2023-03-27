@@ -1,0 +1,126 @@
+{
+  "product": "Jira Software Data Center",
+  "lastUpdated": "2023-03-27",
+  "tiers": {
+    "500": {
+      "userMin": 1,
+      "userMax": 500,
+      "priceCommercial": 42000,
+      "priceAcademic": 21000
+    },
+    "1000": {
+      "userMin": 501,
+      "userMax": 1000,
+      "priceCommercial": 72000,
+      "priceAcademic": 36000
+    },
+    "2000": {
+      "userMin": 1001,
+      "userMax": 2000,
+      "priceCommercial": 120000,
+      "priceAcademic": 60000
+    },
+    "3000": {
+      "userMin": 2001,
+      "userMax": 3000,
+      "priceCommercial": 165000,
+      "priceAcademic": 82500
+    },
+    "4000": {
+      "userMin": 3001,
+      "userMax": 4000,
+      "priceCommercial": 210000,
+      "priceAcademic": 105000
+    },
+    "5000": {
+      "userMin": 4001,
+      "userMax": 5000,
+      "priceCommercial": 255000,
+      "priceAcademic": 127500
+    },
+    "6000": {
+      "userMin": 5001,
+      "userMax": 6000,
+      "priceCommercial": 300000,
+      "priceAcademic": 150000
+    },
+    "7000": {
+      "userMin": 6001,
+      "userMax": 7000,
+      "priceCommercial": 345000,
+      "priceAcademic": 172500
+    },
+    "8000": {
+      "userMin": 7001,
+      "userMax": 8000,
+      "priceCommercial": 390000,
+      "priceAcademic": 195000
+    },
+    "9000": {
+      "userMin": 8001,
+      "userMax": 9000,
+      "priceCommercial": 435000,
+      "priceAcademic": 217500
+    },
+    "10000": {
+      "userMin": 9001,
+      "userMax": 10000,
+      "priceCommercial": 480000,
+      "priceAcademic": 240000
+    },
+    "15000": {
+      "userMin": 10001,
+      "userMax": 15000,
+      "priceCommercial": 525000,
+      "priceAcademic": 262500
+    },
+    "20000": {
+      "userMin": 15001,
+      "userMax": 20000,
+      "priceCommercial": 570000,
+      "priceAcademic": 285000
+    },
+    "25000": {
+      "userMin": 20001,
+      "userMax": 25000,
+      "priceCommercial": 615000,
+      "priceAcademic": 307500
+    },
+    "30000": {
+      "userMin": 25001,
+      "userMax": 30000,
+      "priceCommercial": 660000,
+      "priceAcademic": 330000
+    },
+    "35000": {
+      "userMin": 30001,
+      "userMax": 35000,
+      "priceCommercial": 705000,
+      "priceAcademic": 352500
+    },
+    "40000": {
+      "userMin": 35001,
+      "userMax": 40000,
+      "priceCommercial": 750000,
+      "priceAcademic": 375000
+    },
+    "45000": {
+      "userMin": 40001,
+      "userMax": 45000,
+      "priceCommercial": 795000,
+      "priceAcademic": 397500
+    },
+    "50000": {
+      "userMin": 45001,
+      "userMax": 50000,
+      "priceCommercial": 840000,
+      "priceAcademic": 420000
+    },
+    "-1": {
+      "userMin": 50001,
+      "userMax": -1,
+      "priceCommercial": 885000,
+      "priceAcademic": 442500
+    }
+  }
+}
