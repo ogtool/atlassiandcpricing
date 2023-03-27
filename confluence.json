@@ -1,0 +1,90 @@
+{
+  "product": "Confluence Data Center",
+  "lastUpdated": "2023-03-27",
+  "tiers": {
+    "500": {
+      "userMin": 1,
+      "userMax": 500,
+      "priceCommercial": 27000,
+      "priceAcademic": 13500
+    },
+    "1000": {
+      "userMin": 501,
+      "userMax": 1000,
+      "priceCommercial": 48000,
+      "priceAcademic": 24000
+    },
+    "2000": {
+      "userMin": 1001,
+      "userMax": 2000,
+      "priceCommercial": 84000,
+      "priceAcademic": 42000
+    },
+    "3000": {
+      "userMin": 2001,
+      "userMax": 3000,
+      "priceCommercial": 126000,
+      "priceAcademic": 63000
+    },
+    "4000": {
+      "userMin": 3001,
+      "userMax": 4000,
+      "priceCommercial": 168000,
+      "priceAcademic": 84000
+    },
+    "5000": {
+      "userMin": 4001,
+      "userMax": 5000,
+      "priceCommercial": 210000,
+      "priceAcademic": 105000
+    },
+    "10000": {
+      "userMin": 5001,
+      "userMax": 10000,
+      "priceCommercial": 230000,
+      "priceAcademic": 115000
+    },
+    "15000": {
+      "userMin": 10001,
+      "userMax": 15000,
+      "priceCommercial": 250000,
+      "priceAcademic": 125000
+    },
+    "20000": {
+      "userMin": 15001,
+      "userMax": 20000,
+      "priceCommercial": 270000,
+      "priceAcademic": 135000
+    },
+    "25000": {
+      "userMin": 20001,
+      "userMax": 25000,
+      "priceCommercial": 290000,
+      "priceAcademic": 145000
+    },
+    "30000": {
+      "userMin": 25001,
+      "userMax": 30000,
+      "priceCommercial": 310000,
+      "priceAcademic": 155000
+    },
+    "35000": {
+      "userMin": 30001,
+      "userMax": 35000,
+      "priceCommercial": 330000,
+      "priceAcademic": 165000
+    },
+    "40000": {
+      "userMin": 35001,
+      "userMax": 40000,
+      "priceCommercial": 350000,
+      "priceAcademic": 175000
+    },
+    "-1": {
+      "userMin": 40001,
+      "userMax": -1,
+      "priceCommercial": 370000,
+      "priceAcademic": 185000
+    }
+  }
+}
