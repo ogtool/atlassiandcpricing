@@ -1,0 +1,52 @@
+{
+  "product": "Bamboo",
+  "notes": "Bamboo is licensed as remote agents, not users, but keeping usersMin usersMax for consistency with the other results.. Bamboo does not have Academic pricing.",
+  "lastUpdated": "2029-03-27",
+  "tiers": {
+    "1": {
+      "userMin": 1,
+      "userMax": 1,
+      "priceCommercial": 1200
+    },
+    "5": {
+      "userMin": 2,
+      "userMax": 5,
+      "priceCommercial": 3200
+    },
+    "10": {
+      "userMin": 6,
+      "userMax": 10,
+      "priceCommercial": 5840
+    },
+    "25": {
+      "userMin": 11,
+      "userMax": 25,
+      "priceCommercial": 11600
+    },
+    "100": {
+      "userMin": 26,
+      "userMax": 100,
+      "priceCommercial": 23280
+    },
+    "250": {
+      "userMin": 101,
+      "userMax": 250,
+      "priceCommercial": 58160
+    },
+    "500": {
+      "userMin": 251,
+      "userMax": 500,
+      "priceCommercial": 87280
+    },
+    "1000": {
+      "userMin": 501,
+      "userMax": 1000,
+      "priceCommercial": 133840
+    },
+    "2000": {
+      "userMin": 1001,
+      "userMax": 2000,
+      "priceCommercial": 187380
+    }
+  }
+}
