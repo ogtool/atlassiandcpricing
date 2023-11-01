@@ -1,0 +1,79 @@
+{
+  "product": "Jira Software Cloud Standard",
+  "notes": "Source: https://www.atlassian.com/licensing/cloud#cloud-standard",
+  "lastUpdated": "2023-11-02",
+  "tiers": {
+    "100": {
+      "userMin": 1,
+      "userMax": 100,
+      "priceCommercial": 815,
+      "priceAcademic": 408
+    },
+    "250": {
+      "userMin": 101,
+      "userMax": 250,
+      "priceCommercial": 695,
+      "priceAcademic": 348
+    },
+    "1000": {
+      "userMin": 251,
+      "userMax": 1000,
+      "priceCommercial": 580,
+      "priceAcademic": 290
+    },
+    "2500": {
+      "userMin": 1001,
+      "userMax": 2500,
+      "priceCommercial": 525,
+      "priceAcademic": 263
+    },
+    "5000": {
+      "userMin": 2501,
+      "userMax": 5000,
+      "priceCommercial": 490,
+      "priceAcademic": 245
+    },
+    "7500": {
+      "userMin": 5001,
+      "userMax": 7500,
+      "priceCommercial": 460,
+      "priceAcademic": 230
+    },
+    "10000": {
+      "userMin": 7501,
+      "userMax": 10000,
+      "priceCommercial": 435,
+      "priceAcademic": 218
+    },
+    "15000": {
+      "userMin": 10001,
+      "userMax": 15000,
+      "priceCommercial": 375,
+      "priceAcademic": 188
+    },
+    "20000": {
+      "userMin": 15001,
+      "userMax": 20000,
+      "priceCommercial": 345,
+      "priceAcademic": 173
+    },
+    "25000": {
+      "userMin": 20001,
+      "userMax": 25000,
+      "priceCommercial": 325,
+      "priceAcademic": 163
+    },
+    "30000": {
+      "userMin": 25001,
+      "userMax": 30000,
+      "priceCommercial": 305,
+      "priceAcademic": 153
+    },
+    "-1": {
+      "userMin": 30001,
+      "userMax": -1,
+      "priceCommercial": 240,
+      "priceAcademic": 120
+    }
+  }
+}
