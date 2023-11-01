@@ -1,0 +1,55 @@
+{
+  "product": "Jira Work Management Cloud Standard",
+  "notes": "Source: https://www.atlassian.com/licensing/cloud#cloud-standard",
+  "lastUpdated": "2023-11-02",
+  "tiers": {
+    "15": {
+      "userMin": 1,
+      "userMax": 15,
+      "priceCommercial": 2205,
+      "priceAcademic": 1103
+    },
+    "100": {
+      "userMin": 16,
+      "userMax": 100,
+      "priceCommercial": 1655,
+      "priceAcademic": 828
+    },
+    "250": {
+      "userMin": 101,
+      "userMax": 250,
+      "priceCommercial": 1105,
+      "priceAcademic": 553
+    },
+    "500": {
+      "userMin": 251,
+      "userMax": 500,
+      "priceCommercial": 685,
+      "priceAcademic": 343
+    },
+    "1000": {
+      "userMin": 501,
+      "userMax": 1000,
+      "priceCommercial": 655,
+      "priceAcademic": 328
+    },
+    "5000": {
+      "userMin": 1001,
+      "userMax": 5000,
+      "priceCommercial": 630,
+      "priceAcademic": 315
+    },
+    "7500": {
+      "userMin": 5001,
+      "userMax": 7500,
+      "priceCommercial": 600,
+      "priceAcademic": 300
+    },
+    "-1": {
+      "userMin": 7501,
+      "userMax": -1,
+      "priceCommercial": 565,
+      "priceAcademic": 283
+    }
+  }
+}
