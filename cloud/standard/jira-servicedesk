@@ -1,6 +1,6 @@
 {
-  "product": "Jira Work Management Cloud Standard",
-  "notes": "Source: https://www.atlassian.com/licensing/cloud#cloud-standard",
+  "product": "Jira Service Desk/Management Cloud Standard",
+  "notes": "Source: https://www.atlassian.com/licensing/cloud#cloud-standard - using "jira-servicedesk as filename as that's what Atlassian Access Product Discovery still refers to it as.",
   "lastUpdated": "2023-11-02",
   "tiers": {
     "15": {
